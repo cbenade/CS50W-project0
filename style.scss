@@ -77,10 +77,16 @@ table {
 }
 
 body > div {
-    margin-top: $m1;
+    margin-top: $m1;    
     margin-bottom: 0;
     margin-left: auto;
     margin-right: auto;
+    ul {
+        padding-left: 0;
+        padding-right: 10px;
+        text-align: center;
+        list-style-position: inside;
+    }
 }
 
 footer {
