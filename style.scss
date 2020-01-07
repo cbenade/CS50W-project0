@@ -76,6 +76,13 @@ table {
     }
 }
 
+body > div {
+    margin-top: $m1;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 footer {
     text-align: center;
 }
