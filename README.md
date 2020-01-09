@@ -17,4 +17,4 @@ Below are some brief explanations of each project file in this repository as per
 * [style.scss](https://github.com/cbenade/CS50W-project0/blob/master/style.scss): Sass file used by the CSS extension language to programmatically generate nice CSS stylesheets
 * [style.css.map](https://github.com/cbenade/CS50W-project0/blob/master/style.css.map): A file created by the Sass program to help when debugging CSS using browser dev tools
 * [style.css](https://github.com/cbenade/CS50W-project0/blob/master/style.css): CSS output file created using the Sass program. Stylesheet used by the browser to make the website look nice!
-* [triangle-puzzle-game.jpg](https://github.com/cbenade/CS50W-project0/blob/master/triangle-puzzle-game.jpg): Picture file used to show the user what kind of puzzle the puzzlesolver program is solving.
+* [triangle-puzzle-game.jpg](https://github.com/cbenade/CS50W-project0/blob/master/triangle-puzzle-game.jpg): Picture file used to show the user what kind of puzzle the puzzlesolver program is solving
